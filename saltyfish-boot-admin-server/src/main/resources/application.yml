@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: saltyfish-boot-admin
+  profiles:
+    active: dev
